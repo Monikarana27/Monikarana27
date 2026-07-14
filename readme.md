@@ -1,149 +1,168 @@
-# Hi there, I'm Monika! 👋
+<div align="center">
+
+# Hi, I'm Monika Rana 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Software+Development+Engineer;Full-Stack+Developer;AI+%2F+LLM+Builder;Turning+Ideas+Into+Production+Systems" alt="Typing SVG" />
+
+**Building scalable software, intelligent systems, and products that solve real-world problems.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monika-rana-9614b51b8/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monikarana5724@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Monikarana27)
 
-## 🚀 Full-Stack Developer | AI/ML Enthusiast | Problem Solver
+</div>
 
-> *"Building intelligent applications that bridge the gap between cutting-edge AI and real-world solutions"*
+<br>
 
-I'm a **B.Tech ECE-AI student** at IGDTUW with hands-on experience in **full-stack development** and **machine learning**. I specialize in creating scalable applications using the **MERN stack** while integrating **AI/ML capabilities** to solve complex problems.
+## 👩‍💻 About Me
 
-### 🎯 What I Do
-- 🌐 **Full-Stack Development**: Building responsive web applications with React.js, Node.js, and MongoDB
-- 🤖 **AI/ML Engineering**: Developing intelligent systems using TensorFlow, Python, and computer vision
-- 📊 **Data Processing**: Creating analytics dashboards and handling large-scale data pipelines
-- 🏗️ **System Architecture**: Designing scalable microservices with Docker and cloud technologies
+I'm a **Software Development Engineer** passionate about building scalable applications, backend systems, and AI-powered products.
 
----
+My journey started with machine learning and full-stack development — today I enjoy solving engineering problems across distributed systems, cloud infrastructure, APIs, and modern AI applications.
+
+> Software should be simple, reliable, and built for real users — not just demos.
+
+- 🔭 Currently working on **production-grade backend systems & AI integrations**
+- 🌱 Currently exploring **AI Agents, RAG, and distributed systems**
+- 💬 Ask me about **Node.js, React, System Design, or LLM workflows**
+- 📫 Reach me at **monikarana5724@gmail.com**
+- 📍 Based in **Delhi, India**
+
+<br>
+
+## 🚀 What I Work On
+
+<table>
+<tr>
+<td align="center" width="16%">⚡<br><b>Backend Engineering</b></td>
+<td align="center" width="16%">🌐<br><b>Full-Stack Web Dev</b></td>
+<td align="center" width="16%">🤖<br><b>AI & LLM Integrations</b></td>
+<td align="center" width="16%">🏗️<br><b>System Design</b></td>
+<td align="center" width="16%">☁️<br><b>Cloud & DevOps</b></td>
+<td align="center" width="16%">📊<br><b>Performance Tuning</b></td>
+</tr>
+</table>
+
+<br>
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI & Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+<br>
 
 ## 💼 Professional Experience
 
-### 🔬 Developer Intern @ IIT Delhi
-*Learning Management System Project | Jun 2024 – Aug 2024*
-- Built **responsive frontend modules** using React.js → **25% improved user engagement**
-- Developed **scalable backend services** with Node.js & MongoDB for **1000+ users**
-- Created **interactive analytics dashboards** with real-time learning insights
+**Software Development Engineer**
+- Building and maintaining production-grade software systems
+- Designing scalable backend services and REST APIs
+- Working across frontend, backend, databases, and deployment pipelines
+- Improving application performance, reliability, and developer experience
+- Collaborating with cross-functional teams to ship production features
 
-### 🧠 Machine Learning Intern @ MisaHub, IGDTUW
-*Medical Image Analysis | Mar 2023 – Jun 2023*
-- Developed **ML models for endoscopy classification** → **85% accuracy improvement**
-- Built **data preprocessing pipelines** handling **10,000+ medical images**
-- Optimized model performance through **hyperparameter tuning** and feature engineering
+**Developer Intern — Learning Management System**
+- Built frontend features with React and backend APIs with Node.js
+- Integrated MongoDB for data persistence
+- Contributed to analytics dashboards for tracking learner progress
 
----
+**Machine Learning Intern — Medical Image Analysis**
+- Worked on data preprocessing, computer vision, and deep learning pipelines
+- Built models for endoscopy image classification
 
-## 🛠️ Technical Arsenal
+<br>
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+## 🚀 Featured Projects
 
-### AI/ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+### 🤖 AI Customer Support Platform
+Intelligent chatbot platform integrating with websites and applications using modern LLM workflows, semantic search, and scalable backend architecture.
+`MERN` · `OpenAI API` · `Vector Search` · `Redis`
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### ✅ Task Management Platform
+Scalable productivity platform with microservices, caching, authentication, and intelligent search capabilities.
+`React` · `Node.js` · `Docker` · `Redis` · `MongoDB`
 
----
+### 🔍 AI Document Verification System
+End-to-end document verification pipeline combining OCR, computer vision, and facial recognition for automated identity verification.
+`Python` · `TensorFlow` · `OpenCV` · `OCR`
 
-## 🏆 Featured Projects
+<br>
 
-### 🎯 Task Management Platform
-**Tech Stack:** React.js • Node.js • Docker • Redis • Faiss
-- Architected **microservices-based platform** handling **500+ concurrent users**
-- Integrated **Redis caching** → **40% faster API response times**
-- Implemented **semantic search** using Faiss vector database for intelligent recommendations
+## 🌱 Currently Exploring
 
-### 🤖 AI ChatBot - Intelligent Customer Support
-**Tech Stack:** MERN • OpenAI API • NLP • TensorFlow
-- Built intelligent chatbot with **automated response generation**
-- Integrated **OpenAI GPT models** with custom training data
-- Deployed **NLP pipeline** with sentiment analysis for enhanced interactions
+`AI Agents` · `RAG` · `Advanced System Design` · `Distributed Systems` · `MLOps` · `Cloud-Native Applications` · `Production AI Systems`
 
-### 🔐 Document Verification System
-**Tech Stack:** Python • OpenCV • TensorFlow • OCR • Face Recognition
-- Implemented **OCR pipeline** with **92% accuracy** for government documents
-- Developed **facial recognition model** using CNN → **89% confidence** in real-time matching
-- Built end-to-end verification system combining document analysis and biometric authentication
+<br>
 
----
+## 📚 Education
+
+**B.Tech — Electronics & Communication Engineering (Artificial Intelligence)**
+Indira Gandhi Delhi Technical University for Women (IGDTUW)
+
+<br>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Monikarana27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monikarana27&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Monikarana27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Monikarana27&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Monikarana27&theme=tokyonight" alt="GitHub Streak"/>
+
 </div>
 
----
+<br>
 
-## 🎖️ Achievements & Recognition
-
-🏆 **Smart India Hackathon 2024** - Selected from 200+ teams  
-🎓 **WeCode Scholar 2023** - Harvard University Program  
-📚 **NPTEL Top Performer** - Advanced Software Engineering (95%)  
-💻 **Myntra HackeRamp 2024** - Selected Round 1  
-
----
-
-## 🌟 Leadership & Impact
-
-### 👥 Head Coordinator - PR Team | Taarangana Cultural Fest
-*Aug 2023 – Aug 2024*
-- Led PR campaigns for **5000+ participants**
-- Managed team of **15+ coordinators**
-
-### 💡 Coordinator | Entrepreneurship Cell, IGDTUW  
-*Mar 2023 – Mar 2025*
-- Organized ideathons for **200+ students**
-- Developed comprehensive marketing strategies
-
----
-
-## 🎯 Current Focus
-
-🔍 **Looking for opportunities in:** Full-Stack Development, AI/ML Engineering, Software Development  
-📚 **Currently learning:** Advanced System Design, Cloud Architecture, Deep Learning  
-🌱 **Working on:** Scaling AI applications, Microservices architecture, Real-time analytics  
-
----
-
-## 📈 What's Next?
-
-- 🚀 Building more **scalable AI-powered applications**
-- 🌐 Contributing to **open-source projects**
-- 📊 Exploring **MLOps** and **cloud-native** architectures
-- 🤝 Collaborating on **innovative tech solutions**
-
----
-
-## 🤝 Let's Connect!
-
-I'm always excited to discuss **technology**, **AI innovations**, and **collaboration opportunities**!
-
-📧 **Email:** [monikarana5724@gmail.com](mailto:monikarana5724@gmail.com)  
-💼 **LinkedIn:** [monika-rana-9614b51b8](https://linkedin.com/in/monika-rana-9614b51b8/)  
-📍 **Location:** Delhi, India
-
----
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Monikarana27&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
 
-<div align="center">
-  
-**"Code is poetry written in logic"** ✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monika-rana-9614b51b8/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:monikarana5724@gmail.com)
+
+📍 **Delhi, India**
+
+### *"Building products that scale. Solving problems that matter."* 🚀
 
 </div>
